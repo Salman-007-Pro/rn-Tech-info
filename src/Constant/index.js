@@ -1,0 +1,2 @@
+export const SELECTED_ID = 'SELECTED_ID';
+export const SELECTED_ID_SAGA = 'SELECTED_ID_SAGA';
